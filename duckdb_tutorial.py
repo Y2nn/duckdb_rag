@@ -1,3 +1,4 @@
+# Import the necessary Python package with the functions.
 import duckdb
 
 
