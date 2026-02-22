@@ -9,7 +9,6 @@ from sqlalchemy import create_engine
 
 import os
 
-# duckdb-engine
 
 # Get the OpenAI API KEY
 _ = load_dotenv(find_dotenv())

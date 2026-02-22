@@ -2,7 +2,6 @@
 import duckdb
 
 
-# Libraries: pandas duckdb
 if __name__ == '__main__':
     # To create the persistent database, you just have to use the connect function and provide it with the database name
     # It will create a database base file in your local directory.

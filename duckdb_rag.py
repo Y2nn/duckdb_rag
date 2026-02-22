@@ -33,10 +33,6 @@ Settings.llm = llm
 Settings.embed_model = embed_model
 
 
-# Install all the necessary Python packages that will be used to create and retrieve the index.
-# llama-index llama-index-vector-stores-duckdb
-
-
 if __name__ == '__main__':  # Using DuckDB as a vector database
     # load the PDF files from the data folder.
     # These PDF files are tutorials from DataCamp that are saved as PDF files using the browser’s print function.
